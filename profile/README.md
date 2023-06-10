@@ -14,4 +14,9 @@
 This is the Term Project of "IoT Class Team 10" in Gachon Univ. year 2023
 
 ### 🙋‍♀️ Members
-* 
+
+* 이정하 @jha2ee
+* 김도연 @dyeon999
+* 이동석 @DaveLee-b
+* 유인재 @sts07142
+* 공예영 @yeyounging
